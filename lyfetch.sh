@@ -21,3 +21,6 @@ processor_cores="$(nproc --all)"
 
 echo "| Processor name: $processor_name"
 echo "| Available cores: $processor_cores"
+
+echo "| Shell: $SHELL"
+echo "| Coded by: CPElite / ZlatinaDev"
